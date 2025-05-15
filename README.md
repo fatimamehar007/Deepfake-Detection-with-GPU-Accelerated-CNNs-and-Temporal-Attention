@@ -1,0 +1,2 @@
+# Deepfake-Detection-with-GPU-Accelerated-CNNs-and-Temporal-Attention
+Achieved 97.33% accuracy and 99.40% AUC on Celeb-DF v2 (6,229 videos) using an optimized detection pipeline.Built a GPU-accelerated facial feature extraction pipeline using OpenCV .Designed Enhanced EfficientFace, integrating EfficientNet-B0, 3D convolutions and attention to capture inter-frame inconsistencies in 16-frame sequences.
